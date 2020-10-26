@@ -1,3 +1,7 @@
 # Books Suggestions
 
-QA Books
+QA
+
+Analyses
+
+DevOps
