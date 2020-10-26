@@ -1,4 +1,16 @@
-Analyses
+## DevOps
 
-- Fifty Quick Ideas to Improve Your User Stories
-Focusing on how to get the most out of your investment in testing activities in an agile process. This book will help you test your software better, easier and faster.
+- The Art of Monitoring
+- A Practical Guide to Testing in DevOps
+
+## Automation
+
+- Clean Code: A Handbook of Agile Software
+
+- Test Driven Development: By Example
+
+- Refactoring: Improving the Design of Existing Code
+
+- The Way of the Web Tester: A Beginner's Guide to Automating Tests
+
+- Complete Guide to Test Automation: Techniques, Practices, and Patterns for Building and Maintaining Effective Software Projects [*Not Yet Read*]
