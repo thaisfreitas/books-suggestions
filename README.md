@@ -4,4 +4,4 @@
 
 ### [DevOps](https://github.com/thaisfreitas/books-suggestions/blob/main/categories/areas.md#devops)
 
-### [Automation Test](https://github.com/thaisfreitas/books-suggestions/blob/main/categories/areas.md#automation)
+### [Test Automation](https://github.com/thaisfreitas/books-suggestions/blob/main/categories/areas.md#automation)
