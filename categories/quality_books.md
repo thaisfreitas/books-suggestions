@@ -1,6 +1,6 @@
 # Quality Books
 
-Agile and Quality
+#### Agile and Quality
 
 - Agile Testing: A Practical Guide for Testers and Agile Teams
 
@@ -13,7 +13,7 @@ Agile and Quality
 
 - Sprint a Sprint: Erros e acertos na transformação cultural de um time ágil
 
-Testing
+#### Testing
 
 - Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing
 
@@ -23,7 +23,7 @@ Testing
 - Fifty Quick Ideas to Improve Your User Stories
     > This book will help you write better stories, spot and fix common issues, split stories so that they are smaller but still valuable, and deal with difficult stuff like crosscutting concerns, long-term effects and non-functional requirements.
 
-Communication and Others
+#### Communication and Others
 
 - Bridging the Communication Gap
     >  Book about improving communication between customers, business analysts, developers and testers on software projects, especially by using specification by example and agile acceptance testing.
